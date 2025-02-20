@@ -1,0 +1,17 @@
+2025-02-18 16:08:58.512 [info] 
+
+
+
+
+2025-02-18 16:08:58.556 [info] Extension host agent started.
+2025-02-18 16:08:58.930 [info] [127.0.0.1][98a10174][ManagementConnection] New connection established.
+2025-02-18 16:09:01.182 [info] [127.0.0.1][6d60fa4c][ExtensionHostConnection] New connection established.
+2025-02-18 16:09:01.222 [info] [127.0.0.1][6d60fa4c][ExtensionHostConnection] <2290> Launched Extension Host Process.
+2025-02-18 16:10:28.385 [info] Getting Manifest... ritwickdey.liveserver
+2025-02-18 16:10:28.590 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/lunajuan/.vscode-server/extensions/extensions.json","external":"file:///home/lunajuan/.vscode-server/extensions/extensions.json","path":"/home/lunajuan/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.97.2","date":"2025-02-12T23:20:35.343Z"}}
+2025-02-18 16:10:36.284 [info] Extension signature verification result for ritwickdey.liveserver: Success. Executed: true. Duration: 4670ms.
+2025-02-18 16:10:53.591 [info] Extracted extension to file:///home/lunajuan/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-02-18 16:10:54.748 [info] Renamed to /home/lunajuan/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2025-02-18 16:10:54.861 [info] Extension installed successfully: ritwickdey.liveserver file:///home/lunajuan/.vscode-server/extensions/extensions.json
+2025-02-18 16:11:25.112 [info] [127.0.0.1][98a10174][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-18 16:11:25.222 [info] [127.0.0.1][6d60fa4c][ExtensionHostConnection] <2290> Extension Host Process exited with code: 0, signal: null.

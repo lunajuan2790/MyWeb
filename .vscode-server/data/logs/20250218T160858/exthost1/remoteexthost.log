@@ -1,0 +1,14 @@
+2025-02-18 16:09:08.469 [info] Extension host with pid 2290 started
+2025-02-18 16:09:08.574 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-18 16:09:08.576 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-02-18 16:09:08.606 [info] Lock '/home/lunajuan/.vscode-server/data/User/workspaceStorage/91e37b5f1c795ad9fcdf04b21add6586/vscode.lock': Lock acquired.
+2025-02-18 16:09:09.600 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-18 16:09:10.464 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-18 16:09:10.465 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-18 16:09:12.418 [info] Eager extensions activated
+2025-02-18 16:09:12.420 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 16:09:12.422 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 16:10:56.136 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 16:11:24.542 [info] Extension host terminating: received terminate message from renderer
+2025-02-18 16:11:24.551 [info] Lock '/home/lunajuan/.vscode-server/data/User/workspaceStorage/91e37b5f1c795ad9fcdf04b21add6586/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-02-18 16:11:24.947 [info] Extension host with pid 2290 exiting with code 0

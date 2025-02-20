@@ -1,0 +1,15 @@
+2025-02-18 17:11:37.352 [info] 
+
+
+
+
+2025-02-18 17:11:37.392 [info] Extension host agent started.
+2025-02-18 16:11:42.817 [info] [127.0.0.1][0bde4efa][ManagementConnection] New connection established.
+2025-02-18 16:11:44.174 [info] [127.0.0.1][8fc2df30][ExtensionHostConnection] New connection established.
+2025-02-18 16:11:44.216 [info] [127.0.0.1][8fc2df30][ExtensionHostConnection] <2682> Launched Extension Host Process.
+2025-02-18 16:11:44.523 [info] [127.0.0.1][8fc2df30][ExtensionHostConnection] <2682><stderr> Error reading NLS messages file /home/lunajuan/.vscode-server/data/clp/cd618c86025deac7ac3fb37e746150d5.es/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/lunajuan/.vscode-server/data/clp/cd618c86025deac7ac3fb37e746150d5.es/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json'
+
+2025-02-18 16:12:10.174 [info] [127.0.0.1][8fc2df30][ExtensionHostConnection] <2682> [0mGET /favicon.ico [33m404[0m 4.007 ms - 150[0m
+
+2025-02-18 16:13:17.182 [info] [127.0.0.1][0bde4efa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-18 17:13:12.711 [info] [127.0.0.1][8fc2df30][ExtensionHostConnection] <2682> Extension Host Process exited with code: 0, signal: null.
